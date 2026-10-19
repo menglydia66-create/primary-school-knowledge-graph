@@ -1,0 +1,44 @@
+[
+  {
+    "chain_id": "math.number",
+    "subject": "数学",
+    "chain_name": "数的认识（整数→分数→小数）",
+    "summary": "数数→20以内→100以内→万以内→大数→分数初步→小数→分数与小数互化→负数。"
+  },
+  {
+    "chain_id": "math.add_sub",
+    "subject": "数学",
+    "chain_name": "数的组成与加减法",
+    "summary": "分与合→10以内加减→进位加、退位减→多位数加减→小数、分数加减。"
+  },
+  {
+    "chain_id": "math.solid",
+    "subject": "数学",
+    "chain_name": "立体图形",
+    "summary": "认识立体图形→观察物体→长方体正方体的特征、表面积和体积→圆柱圆锥。"
+  },
+  {
+    "chain_id": "cn.pinyin",
+    "subject": "语文",
+    "chain_name": "汉语拼音（发音→拼读→书写规则）",
+    "summary": "单韵母→声母→拼读→复韵母、鼻韵母→标调与书写规则→借助拼音识字、查字典。"
+  },
+  {
+    "chain_id": "cn.read_aloud",
+    "subject": "语文",
+    "chain_name": "朗读（读正确→读通顺→读出语气）",
+    "summary": "借拼音读正确→长句读通→读出语气→默读→有感情地朗读。"
+  },
+  {
+    "chain_id": "en.letters",
+    "subject": "英语",
+    "chain_name": "字母与语音（字母→自然拼读→拼写）",
+    "summary": "字母认读与书写→字母发音→自然拼读→按音拼写单词。"
+  },
+  {
+    "chain_id": "en.sentence",
+    "subject": "英语",
+    "chain_name": "句型（是什么→有几个→介绍与问答→描述）",
+    "summary": "What is it?→How many?→问答身份→介绍他人→描述能力、喜好、时间、过去的事。"
+  }
+]
